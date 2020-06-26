@@ -1,24 +1,13 @@
-# vuetify-dashboard
+# real-world-nuxt
 
-## Project setup
-```
-yarn install
-```
+> My training vuetify-dashboard project by Vue Mastery
+> course https://www.vuemastery.com/
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+<img src="readmeImg1.JPG">
+<img src="readmeImg2.JPG">
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Project features
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Dashboard is built with a Vuetify library
+- Functional menu with routing
+- SignUp form with validation and reset function
